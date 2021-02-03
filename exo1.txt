@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 c'est la fête 
 
 
@@ -8,3 +9,6 @@ Aujourd'hui il fait beau
 
 
 
+=======
+Yo la mif
+>>>>>>> parent of f991c3f (TEST2)
